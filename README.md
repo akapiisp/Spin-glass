@@ -1,0 +1,1 @@
+Spin glass model for time series. We study Ising spins and Heisenberg spins in spinglass.ipynb and tertiary spins in spinglass2.ipynb. The codes produce time series and resulting distributions of the spin glass model. Furthermore, some chaos analysis is done for the Ising spin.
